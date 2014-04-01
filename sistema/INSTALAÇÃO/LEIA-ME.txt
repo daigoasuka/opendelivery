@@ -1,0 +1,3 @@
+Configure o arquivo CONFIG.PHP na raiz da pasta CÓDIGO FONTE
+e o arquivo CONFIG.PHP dentro da pasta GERENCIA de acordo com os dados do seu servidor web.
+
